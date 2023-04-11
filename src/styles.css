@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todo {
+  margin: 12px 0;
+}
+.todo span {
+  margin-right: 12px;
+}
